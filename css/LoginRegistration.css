@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(to right,#001dc1bb,#00e2ff);
+}
+.formRegisterLogin{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    border: 2px solid #000;
+}
